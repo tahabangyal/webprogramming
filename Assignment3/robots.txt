@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 404.php
+Disallow: header.php
+Disallow: footer.php
+Disallow: coming-soon.php
+Dicsllow: view-blogs-updates.php
+Sitemap: https://www.entracloud.net/sitemap.xml

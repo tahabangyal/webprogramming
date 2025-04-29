@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://www.entracloud.net/</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/about-company</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/products/domains</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/products/emails-and-security</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/products/vpn</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/products/cloud-servers</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/services/artificial-intelligence-development</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/services/mobile-application-development</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/services/website-development</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/blogs-and-updates</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/knowledgebase</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.entracloud.net/contact-us</loc>
+  <lastmod>2025-01-31</lastmod>
+  <priority>0.8</priority>
+</url>
+
+
+</urlset>
